@@ -1,0 +1,40 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary Files
+*.tmp
+*.bak
+
+# Jupyter
+.jupyter/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
