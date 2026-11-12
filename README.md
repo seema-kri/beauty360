@@ -7,6 +7,8 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
+![Product and Brand Performance](Screenshots/Product%20%26%20Brand%20Performance.png)
+
 ---
 
 ## 📌 1. Project Overview
